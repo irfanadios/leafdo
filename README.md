@@ -8,6 +8,7 @@ This is Learning Project Microservice App.
 
 Currently In Progress:
 
-|   Service    |      language      |     Status      |
-| :----------: | :----------------: |:---------------:|
-| Auth-Service | Java (Spring Boot) | Completed (dev) |
+|   Service    |      language      |      Status       |
+|:------------:|:------------------:|:-----------------:|
+| Auth-Service | Java (Spring Boot) |  Completed (dev)  |
+| API Gateway  | Java (Spring Boot) | In Progress (dev) |
