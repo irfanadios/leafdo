@@ -1,6 +1,6 @@
 [submodule "auth-service"]
 	path = auth-service
-	url = https://github.com/irfanadios/auth-service.git
+	url = git@github.com:irfanadios/auth-service.git
 [submodule "api-gateway"]
 	path = api-gateway
 	url = git@github.com:irfanadios/api-gateway.git
