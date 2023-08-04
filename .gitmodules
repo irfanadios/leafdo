@@ -7,3 +7,6 @@
 [submodule "discovery-server"]
 	path = discovery-server
 	url = git@github.com:irfanadios/discovery-server.git
+[submodule "profile-service"]
+	path = profile-service
+	url = git@github.com:irfanadios/profile-service.git
