@@ -4,3 +4,6 @@
 [submodule "api-gateway"]
 	path = api-gateway
 	url = git@github.com:irfanadios/api-gateway.git
+[submodule "discovery-server"]
+	path = discovery-server
+	url = git@github.com:irfanadios/discovery-server.git
