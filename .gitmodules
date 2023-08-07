@@ -10,3 +10,6 @@
 [submodule "profile-service"]
 	path = profile-service
 	url = git@github.com:irfanadios/profile-service.git
+[submodule "email-service"]
+	path = email-service
+	url = git@github.com:irfanadios/email-service.git
